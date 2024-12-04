@@ -13,5 +13,12 @@ add_executable(Ejercicio2
 
 add_executable(Ejercicio3
         Ej3/main.cpp
-        Ej3/circulo.cpp
-)
+        Ej3/circulo.cpp)
+
+add_executable(Ejercicio4
+        Ej4/main.cpp
+        Ej4/ciencia.cpp)
+
+add_executable(Ejercicio5
+        Ej5/main.cpp
+        Ej5/main.cpp)
