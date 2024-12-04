@@ -3,6 +3,10 @@ project(EjerciciosSTL)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Ejercicios1
-    Ej1/main.cpp
-)
+add_executable(Ejercicio1
+    Ej1/main.cpp)
+
+add_executable(Ejercicio2
+    Ej2/main.cpp
+    Ej2/triangulo.cpp
+    Ej2/circulo.cpp)
